@@ -2,7 +2,7 @@
 
 		Volant-OpenRepositoriesLicense IllegalContent v.1.0 International Public License
 
-Copyleft (ↄ) "volant127" industrial consortium
+Copyleft (ↄ) "volant127" industrial consortium 2019-2023
 
 Volant127 is decentralized and not registered in any state.
 In this regard, we want to notify you that we are not responsible for the content published by us.
