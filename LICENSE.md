@@ -1,6 +1,6 @@
 ```
 
-				V-ORL (volant open repositories) license
+		Volant-OpenRepositoriesLicense IllegalContent v.1.0 International Public License
 
 Copyleft (ↄ) "volant127" industrial consortium
 
