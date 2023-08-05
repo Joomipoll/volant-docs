@@ -17,7 +17,7 @@
 
 ## Contributors
 
-- CryoniXXX
+- CryoniXXX (link coming soon)
 
 <!--
 ## *opt. User section name*
