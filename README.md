@@ -9,11 +9,9 @@
 
 [Volant127 recovery project](https://github.com/users/Joomipoll/projects/2)
 
-<!--
-## Developments *opt.*
+## Developments
 
-*Maybe you created something while searching? Be sure to write about it in this section*
--->
+I remember looking at TRO 002/2020 and there was a clause that sites should be protected with a special "CBGA" encryption algorithm. Despite the fact that I know nothing about cryptography, I will still try to recreate this algorithm, since it is useless to look for its sources. [This directory](https://github.com/Joomipoll/volant-docs/tree/CBGA/CBGA), I will try to write the code and put it in the public domain
 
 ## Contributors
 
