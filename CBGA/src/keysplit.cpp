@@ -13,7 +13,7 @@ void nor_key()
 	
     for(char c : key)
 	{
-        std::bitset<8> binary(c);
+        bitset<8> binary(c);
         result |= binary;
     }
 }
