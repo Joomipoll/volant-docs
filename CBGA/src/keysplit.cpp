@@ -5,13 +5,15 @@
 
 using namespace std;
 
-int main() {
+void nor_key()
+{
     string key = key::readkey();
 
-    for (char c : key) {
+	bitset<8> result(0);
+	
+    for(char c : key)
+	{
         std::bitset<8> binary(c);
-        std::cout << binary << " ";
+        result |= binary;
     }
-
-    return 0;
 }
