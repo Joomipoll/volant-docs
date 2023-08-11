@@ -1,6 +1,7 @@
 #include <iostream>
 #include <bitset>
 #include <string>
+#include <readkey.cpp>
 
 using namespace std;
 
